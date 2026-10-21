@@ -1,0 +1,26 @@
+# Secrets (bot token, API keys)
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs and local data
+*.log
+*.sqlite3
+*.db
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+
+# Built archives and runtime logs
+dist/
+logs/
+
+# Local notes
+CLAUDE.md
